@@ -1,0 +1,21 @@
+
+package com.ecobin.product_service.enums;
+
+public enum ProductCategory {
+    MOBILE_PHONES,
+    LAPTOPS,
+    DESKTOPS,
+    TABLETS,
+    TELEVISIONS,
+    MONITORS,
+    PRINTERS,
+    KEYBOARDS_AND_MICE,
+    COMPUTER_ACCESSORIES,
+    AUDIO_EQUIPMENT,
+    CAMERAS,
+    HOME_APPLIANCES,
+    KITCHEN_APPLIANCES,
+    BATTERIES,
+    CABLES_AND_CHARGERS,
+    OTHER
+}
